@@ -1,0 +1,23 @@
+{
+    "User": "用戶",
+    "Users": "用戶",
+    "Team": "團隊",
+    "Teams": "團隊",
+    "Team Setting": "團隊設定",
+    "Team Settings": "團隊設定",
+    "Register team": "註冊團隊",
+    "Team profile": "團隊資訊",
+    "Team id": "團隊編號",
+    "Key": "鍵",
+    "Description": "描述",
+    "Value": "值",
+    "Name": "名稱",
+    "Email": "電子郵件",
+    "Email verified at": "電子郵件驗證於",
+    "Password": "密碼",
+    "Two factor secret": "雙因子驗證密鑰",
+    "Two factor recovery codes": "雙因子驗證恢復碼",
+    "Two factor confirmed at": "雙因子驗證確認於",
+    "Current team id": "當前團隊編號",
+    "Profile photo path": "個人照片路徑"
+}

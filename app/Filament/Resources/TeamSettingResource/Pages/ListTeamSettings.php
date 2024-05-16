@@ -2,16 +2,16 @@
 
 declare(strict_types=1);
 
-namespace App\Filament\Resources\UserResource\Pages;
+namespace App\Filament\Resources\TeamSettingResource\Pages;
 
-use App\Filament\Resources\UserResource;
+use App\Filament\Resources\TeamSettingResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
 use Illuminate\Contracts\Support\Htmlable;
 
-class ListUsers extends ListRecords
+class ListTeamSettings extends ListRecords
 {
-    protected static string $resource = UserResource::class;
+    protected static string $resource = TeamSettingResource::class;
 
     protected function getHeaderActions(): array
     {

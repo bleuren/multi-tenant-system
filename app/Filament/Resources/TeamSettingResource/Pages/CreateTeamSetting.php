@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace App\Filament\Resources\UserResource\Pages;
+namespace App\Filament\Resources\TeamSettingResource\Pages;
 
-use App\Filament\Resources\UserResource;
+use App\Filament\Resources\TeamSettingResource;
 use Filament\Resources\Pages\CreateRecord;
 use Illuminate\Contracts\Support\Htmlable;
 
-class CreateUser extends CreateRecord
+class CreateTeamSetting extends CreateRecord
 {
-    protected static string $resource = UserResource::class;
+    protected static string $resource = TeamSettingResource::class;
 
     protected function getRedirectUrl(): string
     {
